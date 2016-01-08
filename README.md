@@ -1,6 +1,6 @@
 # webpack
 
-1. 下载相应的项目到本地；
+1. 
 
 2. 全局安装webpack:npm install webpack -g
     (若没有安装npm,先安装npm.
@@ -25,4 +25,12 @@
 4.  package.json->devDependencies,
 
     执行 npm install安装devDependencies中所有的模块
+
+5.require('path');
+
+6.命令中执行webpack
+  编译entry.js文件并生成bundle.js
+
+7.webpack -p
+
 
