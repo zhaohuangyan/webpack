@@ -23,14 +23,14 @@
 
 
 4.  package.json->devDependencies,
-
+    
     执行 npm install安装devDependencies中所有的模块
+5.  require('path');
+    
+6.  命令中执行webpack
+    
+    编译entry.js文件并生成bundle.js
 
-5.require('path');
-
-6.命令中执行webpack
-  编译entry.js文件并生成bundle.js
-
-7.webpack -p
+7.  webpack -p
 
 
