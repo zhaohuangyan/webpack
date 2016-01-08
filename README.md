@@ -14,6 +14,7 @@
 
 3.  全局安装bower(npm install bower -g)
 
+
 4.package.json->devDependencies,
     执行 npm install安装devDependencies中所有的模块
 
